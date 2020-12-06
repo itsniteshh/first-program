@@ -13,4 +13,4 @@ Here are something about me:
 
   ## This is from VSC
 
-  GitHub went good, now I'm learning from VSC via YT 
+  GitHub went good, now I'm learning from VSC via YT channel
