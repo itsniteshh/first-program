@@ -10,3 +10,7 @@ Here are something about me:
  
   - :office: [LinkedIn](https://www.linkedin.com/in/niteshjhaa/)
   - :hatched_chick: [Twitter](https://twitter.com/tryniit)
+
+  ## This is from VSC
+
+  GitHub went good, now I'm learning from VSC via YT 
