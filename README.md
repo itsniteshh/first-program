@@ -1,5 +1,5 @@
 # first-program :partying_face:	:crossed_fingers:	
-IDK anything about gitHub but I'm trying to learn and this is my first repo
+I know nothing about gitHub but I'm trying and this is my first repo
 
 Here are something about me:
 
