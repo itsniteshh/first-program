@@ -9,7 +9,7 @@ Here are something about me:
 - 📫 How to find me: 
  
   - :office: [LinkedIn](https://www.linkedin.com/in/niteshjhaa/)
-  - :hatched_chick: [Twitter](https://twitter.com/tryniit)
+  - :hatched_chick: [Twitter](https://twitter.com/nitesh_who)
 
   ## This is from VSC
 
